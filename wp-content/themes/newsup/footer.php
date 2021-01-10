@@ -152,7 +152,7 @@ $you_missed_enable = esc_attr(get_theme_mod('you_missed_enable','true'));
                         <div class="row">
                             <div class="col-md-6 text-xs">
                                 <p>
-                                <a href="<?php echo esc_url( __( 'https://wordpress.org/', 'newsup' ) ); ?>">
+                                <a href="<?php echo esc_url( __( 'http://localhost/balittas/', 'newsup' ) ); ?>">
 								<?php
 								/* translators: placeholder replaced with string */
 								printf( esc_html__( '© 2021 Balittas Polinema'),);
