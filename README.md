@@ -11,4 +11,13 @@ Re-design tampilan Website [Balittas](http://balittas.litbang.pertanian.go.id/in
 2. Clone this repo
 3. Extract file, lalu copy hasil extractkan ke direktory **c/xampp/htdocs**
 4. Aktifkan **Apache** dan **MySQL** pada XAMPP
-5. Buka browser, lalu ketikkan **localhost/balittas/**
+5. Buka browser, lalu ketikkan **localhost/phpMyAdmin/**
+6. Buat database dengan **balittas**
+7. Import database
+8. Buka browser, lalu ketikkan **localhost/balittas/**
+
+[Database SQL File](https://github.com/SeptiandaRezaMaulana/balittas/tree/main/Database)
+
+## Akun Login
+Username : admin
+Password : admin@123@admin1
